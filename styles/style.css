@@ -342,7 +342,6 @@
 .footer__social-icon {
   width: auto;
   height: 48px;
-  
 }
 
 .footer__menu-list {
@@ -373,5 +372,4 @@
 
 .footer__menu {
  align-items: start;
- padding-bottom: 115px;
-}
+ }
