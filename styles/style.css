@@ -53,7 +53,7 @@
   list-style: circle;
   gap: 32px;
   font-size:18px;
-  text-align: :start;
+  text-align: start;
 }
 
 .header__menu-list-item_no-bullit {
